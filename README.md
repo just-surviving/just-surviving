@@ -108,10 +108,16 @@
 - Migrated frontend to **Turborepo**, reducing build times by **65%**.  
 - Integrated with **auth & analytics APIs** ensuring persistent, reliable data flow.  
 
-### 📌 **[LinkMan](https://github.com/just-surviving/LinkMan)** *(MERN Stack)*  
+<!-- ### 📌 **[LinkMan](https://github.com/just-surviving/LinkMan)** *(MERN Stack)*  
 - Architected **secure URL encryption platform** serving **150+ daily users**.  
 - Built REST APIs for encrypted link creation, passcode-based access, and 99.8% uptime.  
-- Improved frontend performance by **30%** with Vite + React + Tailwind.
+- Improved frontend performance by **30%** with Vite + React + Tailwind. -->
+
+### 📌 **[TaskFlow](https://github.com/just-surviving/TaskFlow)** *(Next.js, Node.js, PostgreSQL, Kafka/Redpanda, Docker)*  
+- Engineered **event-driven microservices** with **Kafka/Redpanda** and the **Outbox Pattern**, enabling **99.9% reliable message delivery**, fault tolerance, and scalable distributed workflow execution.  
+- Designed relational schema with **PostgreSQL + Prisma ORM**, optimizing queries with indexing/relationships and ensuring **type-safe, high-performance data operations** across services.  
+- Built and deployed **backend APIs** with Node.js + Express.js, integrating **JWT authentication**, webhook services, and **blockchain transactions (Solana Web3.js)** for secure, multi-channel workflow actions.  
+- Containerized services with **Docker & Docker Compose**, implemented **CI/CD pipelines**, and added observability with **structured logging/error handling** for production-ready deployments.  
 
 ## 🧪 Recent AI Projects
 
@@ -176,16 +182,16 @@
         <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <!--<td align="center" width="20%">
       <a href="https://wwww.youtube.com" target="_blank">
         <img src="https://www.abhi nahin hai.com" height="60" alt="Portfolio"/><br/>
         <sub><img src="https://img.shields.io/badge/Portfolio-02075D?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
       </a>
-    </td>
+    </td> -->
     <td align="center" width="20%">
       <a href="https://www.instagram.com/__abxsh/?__pwa=1#" target="_blank">
         <img src="https://github.com/just-surviving/just-surviving/blob/main/image.png?raw=true" height="60" alt="Medium"/><br/>
-        <sub><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></sub>
+        <sub><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></sub>
       </a>
     </td>
   </tr>
