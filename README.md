@@ -16,10 +16,10 @@
 ## 🚀 About Me
 
 🎓 **Electronics & Communication Undergrad** at [LNMIIT, Jaipur](https://www.lnmiit.ac.in/) (2022–2026)  
-💻 Passionate about **Frontend Development, System Design, and Scalable Web Apps**  
-🛠️ Hands-on experience with **React, Next.js, TailwindCSS, Node.js, PostgreSQL, MongoDB, Redis**  
+💻 Passionate about **Development, System Design,AI Agents and Scalable Web Apps**  
+🛠️ Hands-on experience with **React, Next.js, TailwindCSS, Node.js, PostgreSQL, MongoDB, Redis, AI Agents, LangChain, LangGraph, RAG, Vector Database**  
 🌐 Interested in **Data Visualization, UI Performance Optimization, and Cloud Deployments**  
-📈 Active problem solver – solved **250+ DSA problems** across LeetCode, GFG & HackerRank  
+📈 Active problem solver – Solved **250+ DSA problems** across LeetCode, GFG & HackerRank  
 
 ---
 
@@ -140,8 +140,7 @@
 ---
 
 ## 🏆 Achievements
-
-- 🥇 **250+ DSA problems solved** on LeetCode, GFG, HackerRank.  
+  
 - 📊 Secured **AIR 14,703 in JEE Advanced 2022 (Top 10%)**.  
 - 🏅 Ranked in **top 4% in JEE Mains 2022** among 1M+ candidates.  
 
