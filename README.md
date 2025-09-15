@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Abhinav Sharma 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Developer;Frontend+%26+Fullstack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+%26+Exploring" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Developer;Building+AI+Agents;GenAI+Solutions;Always+Learning+%26+Exploring" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -49,6 +49,21 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+</p>
+
+## 🤖 AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-0B7285?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5C2D91?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EB4A4B?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases & Cloud  
@@ -98,6 +113,21 @@
 - Built REST APIs for encrypted link creation, passcode-based access, and 99.8% uptime.  
 - Improved frontend performance by **30%** with Vite + React + Tailwind.
 
+## 🧪 Recent AI Projects
+
+### 📬 LangGraph Email Automation — Python · FastAPI · LangGraph · RAG · Docker
+- Built an AI-powered email pipeline with multi-agent workflow (**Writer → Proofreader → QA**), improving draft quality and reducing corrections by **35%** in tests.
+- Integrated **RAG** for contextual answers, increasing relevant answer coverage from **60% → 85%**.
+- Dockerized with reproducible builds, cutting setup time from **~30 min → <5 min**.
+- Repo: https://github.com/just-surviving/Langgraph_email_Automation
+
+### 🎬 n8n Video AI Agent (VEO3) — n8n · Google Gemini · Vertex AI · LangChain
+- Automated cinematic product-demo video generation from text/voice prompts; up to **90% faster** content creation.
+- Orchestrated async video generation (**Wait & Fetch**), handling **5–7** concurrent jobs with fault-tolerant delivery via **Telegram**.
+- Multi-channel IO with **Telegram (voice-to-text), Google Sheets (logging), Google Drive (storage)**; manual steps reduced by **70%**.
+- Repo: https://github.com/just-surviving/n8n-AI-Agent-Orchestration
+
+
 <p align="center">
 <img src = "https://camo.githubusercontent.com/ac444755f650fbaf9bf582931753704ff71f122c1009d849fda5c1345b2b2081/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3030464630302663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d446562756767696e672b7468652b756e6976657273652e2e2e3b436f6d70696c696e672b636f736d69632b636f64652e2e2e3b44656372797074696e672b616c69656e2b7472616e736d697373696f6e732e2e2e3b4c6f6164696e672b6e6578742b616476656e747572652e2e2e"></p>
 
@@ -121,14 +151,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=just-surviving&theme=midnight-purple&show_icons=true&rank_icon=github">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-surviving&layout=compact&theme=midnight-purple">
 </p>
-
----
-
-<p align="center">
-<img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/sekiro-mortal-blade.gif?raw=true" width=wrap_content />
-</p>
-
-<p align = center><i>"Hesitation is Defeat"</i></p>
 
 ---
 
@@ -168,6 +190,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+<img src="https://github.com/FR34KY-CODER/FR34KY-CODER/blob/main/sekiro-mortal-blade.gif?raw=true" width=wrap_content />
+</p>
+
+<p align = center><i>"Hesitation is Defeat"</i></p>
 
 ---
 <p align="center">
