@@ -115,6 +115,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-surviving&theme=midnight-purple" />
+  <img src="https://github.com/FR34KY-CODER/FR34KY-CODER/raw/main/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e486c70655855315a6d787363335673613249775a326c69625864694f47747265486c335a6e45324f575a7262335a32614856724d795a6c634431324d563970626e526c636d35686.gif?raw=true">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=just-surviving&theme=midnight-purple&show_icons=true&rank_icon=github">
@@ -123,13 +124,50 @@
 
 ---
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/59563edfca44dc19021d0eb3a821d2b00bf61f7c9ed3ee113ba5d3b80039187c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784f486c31656e427964574e6d623352355932567563335978626e4e304e5752786158493265576c6a4e6a5a75623352304d486b3263795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f306c474f4378713156384e374531696375512f67697068792d646f776e73697a65642e676966">
+</p>
+
+>Let's Forge Something Together
+
+---
+
 ## 🌐 Connect with Me  
 
-<p align="center">
-  <a href="mailto:abhinavsharma.career1@gmail.com"><img src="https://img.icons8.com/color/96/gmail-new.png" height="50"/></a>
-  <a href="https://www.linkedin.com/in/abhinav-sharma-z21/"><img src="https://img.icons8.com/color/96/linkedin.png" height="50"/></a>
-  <a href="https://github.com/just-surviving"><img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="50"/></a>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td align="center" width="20%">
+      <a href="mailto:abhinavsharma.career1@gmail.com" target="_blank">
+        <img src="https://img.icons8.com/color/96/gmail-new.png" height="60" alt="Gmail"/><br/>
+        <sub><img src="https://img.shields.io/badge/Email-ff4c1c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/abhinav-sharma-z21" target="_blank">
+        <img src="https://img.icons8.com/color/96/linkedin.png" height="60" alt="LinkedIn"/><br/>
+        <sub><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/just-surviving" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="60" alt="GitHub"/><br/>
+        <sub><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://wwww.youtube.com" target="_blank">
+        <img src="https://www.abhi nahin hai.com" height="60" alt="Portfolio"/><br/>
+        <sub><img src="https://img.shields.io/badge/Portfolio-02075D?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/></sub>
+      </a>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.instagram.com/__abxsh/?__pwa=1#" target="_blank">
+        <img src="https://github.com/just-surviving/just-surviving/blob/main/image.png?raw=true" height="60" alt="Medium"/><br/>
+        <sub><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 <p align="center">
