@@ -103,25 +103,25 @@
 
 ## 🔥 Projects
 
-📌 **[TypeFast](https://github.com/just-surviving/TypeFast)** *(Next.js, TS, PostgreSQL, Redis, Tailwind, Docker)*  
+### 📌 **[TypeFast](https://github.com/just-surviving/TypeFast)** *(Next.js, TS, PostgreSQL, Redis, Tailwind, Docker)* 
 - Designed high-performance multiplayer typing app for **80+ concurrent users** with millisecond feedback.  
 - Migrated frontend to **Turborepo**, reducing build times by **65%**.  
 - Integrated with **auth & analytics APIs** ensuring persistent, reliable data flow.  
 
-📌 **[LinkMan](https://github.com/just-surviving/LinkMan)** *(MERN Stack)*  
+### 📌 **[LinkMan](https://github.com/just-surviving/LinkMan)** *(MERN Stack)*  
 - Architected **secure URL encryption platform** serving **150+ daily users**.  
 - Built REST APIs for encrypted link creation, passcode-based access, and 99.8% uptime.  
 - Improved frontend performance by **30%** with Vite + React + Tailwind.
 
 ## 🧪 Recent AI Projects
 
-### 📬 LangGraph Email Automation — Python · FastAPI · LangGraph · RAG · Docker
+### 📬 **LangGraph Email Automation** — *Python · FastAPI · LangGraph · RAG · Docker*
 - Built an AI-powered email pipeline with multi-agent workflow (**Writer → Proofreader → QA**), improving draft quality and reducing corrections by **35%** in tests.
 - Integrated **RAG** for contextual answers, increasing relevant answer coverage from **60% → 85%**.
 - Dockerized with reproducible builds, cutting setup time from **~30 min → <5 min**.
 - Repo: https://github.com/just-surviving/Langgraph_email_Automation
 
-### 🎬 n8n Video AI Agent (VEO3) — n8n · Google Gemini · Vertex AI · LangChain
+### 🎬 **n8n Video AI Agent (VEO3)** — *n8n · Google Gemini · Vertex AI · LangChain*
 - Automated cinematic product-demo video generation from text/voice prompts; up to **90% faster** content creation.
 - Orchestrated async video generation (**Wait & Fetch**), handling **5–7** concurrent jobs with fault-tolerant delivery via **Telegram**.
 - Multi-channel IO with **Telegram (voice-to-text), Google Sheets (logging), Google Drive (storage)**; manual steps reduced by **70%**.
