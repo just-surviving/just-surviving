@@ -130,3 +130,9 @@
   <a href="https://www.linkedin.com/in/abhinav-sharma-z21/"><img src="https://img.icons8.com/color/96/linkedin.png" height="50"/></a>
   <a href="https://github.com/just-surviving"><img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" height="50"/></a>
 </p>
+
+---
+<p align="center">
+<img src="https://github.com/FR34KY-CODER/FR34KY-CODER/raw/main/footer.png?raw=true">
+</p>
+
